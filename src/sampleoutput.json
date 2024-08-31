@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "These monkeys use names to communicate with each other, study finds - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZW5ZZlFuVlM3dW9kcjdDZ2lneE95YmlmWk5zNXpWU2hFYmotVTdveEZ3RnRra2pKR0Q0Z09LdERJZ05udk11WGRITkNBaE1ZVkI0ZmpkcWMwNHZvYk00NzZHeXN0aEs3OG5uUFJFZnZsNXEwQ09jbXoxOGo1MUlybmxOdUs2cjVISVBreENxb9IBhgFBVV95cUxNcXhFeUtZc0JHYlhIb3c3eG9Nb1dXU1hhemhWNTBXdE1ud05USFRFWEp5QWlwQWlfWGppaWp5OFZrWGVMdmdFa21kd3MwYmJHLXhnWDhoVXh4XzQ2ZmY2TC1IS0tCcFJKYkhHZkEzdFhzSnA3T2FZUTE2ci0zWjAzRmhoTms4QQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T09:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "Euro zone inflation falls to 3-year low of 2.2%, backing September rate cut case - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvX21mR1c3NlpQM1FiRlhDRGhCbUl6SnlvM1pOblhuZDRwajdadU1WbHFLNUxJNFo2OTh0b2ZFckZTcGY4X3kwZ2JMWDFDajhSUUtJR2hVbjczUmVTbko2bU1XaUVSS2s2SzRyY3N0LV9sMUlwY1FZ0gF8QVVfeXFMTm4xMk94LXI5czNQcWlLQU9kcUhqZ3drN1ptOTJNajY3ZS04N2RsbU1aaUt6YnozTFI4V1RaU0NvZGU2TFRzTlV4WUp0OTNfdUdEOEhpUXZLYmxRU2RDVHdxM3BJNU9FTFFzVXlfejczdVcwd1NJVXNFb3l4Zw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T09:10:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "POLITICO",
+            "title": "A botched golf course plan, school board losses and an Irish feud: Ron DeSantis faces heat at home - POLITICO",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3puWDVQLUdodnJVU3QzSVQ2U0VqN2MzSkdDbWFzQXJXb1FQV1hDYzU5UG1fR243ZWxrQkx2RDhmeVI5SGc4cE1wUEVKLVloUV9oV3BudEQzajh6Q0N2VllrTVc0QzJSVWN6U1ZBMTEtaHVkM0FYai0wQWZSVkJndmt1alJhTjhvaXdYVURn?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T09:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Axios",
+            "title": "Musk slams Brazil judge over Starlink frozen accounts, X shutdown threat - Axios",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ObjBFdm9EYXdjbnFKMms4SVBHQkdsbFRvdkFTOV84MUlqVk01b3FNaTJqZ3RjZXFuY19HOGc0TTZxWGpMeGlFSldmOVplX1JsTlNGcEk0a2RMdUdNZllyQUk2Z0kxZE1DNkx3?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T07:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Bloomberg",
+            "title": "Harris Sustains Her Momentum in 2024 Contest With Trump - Bloomberg",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzFlYjNLTmVjUWlvUVBpSkRWSGEtVVlURUFqUVhTT2EtbkNjT3RmakdUZEdfdmtyRDJGWUExbHQxTDdvNHVUT2xCM3hCNEFKT09XTklVbVE3NFcxRUlCWVNjOW1vYlYza0VBZ0V3cFZOMy1uZElkSTZGck81anJvb2duYVk0ak9DOFlGWmI3bGh4VVl1a3ZuMUhrd1pJYkt5SjJkYVNaSkhnZTBzSlE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T06:29:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "Ukrainian F-16 crashes, killing pilot, during Russian missile attack - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVWZpUmdIQzBWOWdsR0QxNzQ4VWlfVWJ1VHQ0Vnd0R3VQbWJNamtpTjJTQkJ0V1dSTlJyeWNqeFBHaUlHTTg2MWhqR2lNQmpXc09jY1BQVmtnSVFQTHo0ZElqbmdjSHI2LWJYZDNWUFVGazFOS0lZTGY2NUFmQQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T06:25:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Independent",
+            "title": "Trump v Harris live: Harris bats away Trump’s ‘turning Black’ remark in CNN interview - The Independent",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3pWQXdRSTNXdVlMNXhaTUV5eGxBN2ZodU16Rko0ZkcxU0REMzNLN215eXZzUW5oeHg3ZHBqUXVYRGpfaE1RdXp2M3FOVFRWN2RFZmVHVXN6V2hDNzhFRW5DdUVlelBwNzhmY19ZbjY5N3pkMHNidEVlSWZxZmFTNjZ6aWUzdndiRVZXN1BRMk5ESUY5MHJPTGFCX0ZSMVhxWUc4OEU3RUp3Z0VQQU5LUzZ1Mld2UUVMdkFMLW0zU3UxZw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T05:30:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Kyodo News Plus",
+            "title": "Typhoon weakens but train, flight disruption continues in Japan - Kyodo News Plus",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0lhQTlrQld2LWt6cUk2ckgxdXN0R1V3YXZiWlcxWXBjVW9wb2s5VnNkT0hwTHp6S3Z6NWJaRENxakRVb1AwRG9GTzZqMXo3cDJGUnRjVFFnZmwzUXA5dzFncnd3QmRYYVUyb0ZxS1BWZFE5NUdnVW5vS0FHMUgxWFNULVcwcm9PNnI5MjdRdU5ic1c2bmFTQW1wWWVvZjJzMUZESXJUZDN3UG5SMl9WMGQxdnQ2cTMxcElfOQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T05:11:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TechCrunch",
+            "title": "Apple and Nvidia could be OpenAI’s next big investors - TechCrunch",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjRueFUzRlhuaGZWd3NSWG5Ibmp1MkxtbEI0S0hvWDNJSUlUQi1GMktQbHVFZkdjYmI2M2lfamtIaGtCUVdXQzZ4YUhEU2c4N3FKRnR5ZUlHWE01d0RlVkZjYjhmSTlqMkkxQ2hSc0Exb2RBRzJaWmlQOFlzS3dONVdtOUJQYW93eHpIbFZHWGI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T05:05:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "Trump promises universal IVF coverage, suggests he'll vote to repeal Florida's 6-week abortion ban - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE5KVEFPcm1MSXYwZFc3OTZNNjU1ZDQ1Z2JUQjRuMHdHZk9lMzR0OXFMejVjVWFyS2VHSDA0UkFBWEI4ZE9NVEU2VFN5MTJYc1l6TWRUSncydFo2MG5ENzl3STdJTEhzN3djOWFScHdOVjRyaDJ1M2VGSm5pZWF6Xy1kenBMTU1NVVlkR2szeWZUQ3Rsc0gteDZzWjFlemVKc0FncmE4RXdIX2lHZFRWdm03WQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T04:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Bloomberg Television",
+            "title": "Asian Stocks Rebound After Upbeat US Economic Data | Bloomberg: The Asia Trade 8/30/24 - Bloomberg Television",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC2hoRWN1Y2lqd0dBmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T04:16:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ESPN",
+            "title": "UNC loses new QB Johnson to injury vs. Minnesota - ESPN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUVaWW00QWVUYVlfMjB4eXNoMF85Ql8xNzNNSGdpNzgtTktOYWtwaTZsNlE5aHNFYWtyZ0dpbm1RVG1ENmlmZE0yb090MmFfd2gzWXlIRnphUVd6QWt5MWFyTEpPV0xsZ2hmYW9VR3k5R2laclpPdnZjdGk4eXljbnNESHJrMHJkdXNabGV1UHpUbUV0eWhMRFRrcEwyN3FpT2tFWkVVcVlDdw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T03:57:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Sports",
+            "title": "Shedeur Sanders and Travis Hunter power Colorado to a 31-26 win over North Dakota State - Yahoo Sports",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUpLLUN6QUQtT3BiNy0zMV9sQkpJZUJmSUlqakU4bUlRNHlFeVc4S0N0eU03V3JDQzVnSTNEODdEN1FSM1RweHF4SE15Vk92MDZlLWpKWnZuTzVscmQ3Q2dkU3FuQ2plLWpRb3BoYjZqdzJyNTBoY0NsbFV5SEhJVU9leHVRQ2Z5b2ZSTV9PRTRFbm9GMjc3b1lubW0xR2dPY1R3QUZicWJPYkpYRTdFZlhVTk9zOFQ1ekZwOHdkWmw4bi1XTHc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T03:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "Fact-checker examines Harris' position on fracking - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVBQU1ZyVW1xUEtaNjVJSTViR2YxMTczTHVmbXczLTlPUS1OOVNDdEZ0d3Eyc0FjMy1INjk3NklueU02aHRUaGQ1ZkRFZHZIVHA5NmhkbGVqUzFpR2V5WTNhX0t0RFNQbnNYQXRfREViR0d0VkZWVXd2T0FUeEV4QWVQYXNQT3E5OEVnYjBpcDV0TlQ4a0dKNXFybFdFSG9ibEc5QUpvRmRUZUdsZUJGVkI4bW5vS1kyd0xrdWJMcmI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T03:05:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Euronews",
+            "title": "Video. Angelina Jolie arrives for Venice Film Festival 'Maria' press talk - Euronews",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3NxVU11dHFmaUYwNDJEM1JENU0tTXBMeEFSWDJiOGt2MWFwX0NqSGk1b0RKWGI2Tmk2VzlZaldpLXl2c1JBajNWMzlpV2I0djV2Xy13bjBpcHJ4bVJJUTFtQkJWLXBWSFNsZ1FjYlpvclhvU29nemhUV3d4SldGMXk1NWpzS3lpYTNldkpTZ1B3SzV1SVcwX0NRWExOcUFmVzU1bmxmZWR6ZnJtQ2tNUEZxYnk0Y1U0VTAwLWg2RHRJQnpLbnc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T02:58:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "SpaceNews",
+            "title": "Starliner return from ISS set for Sept. 6 - SpaceNews",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xcmhkaFNnVlkyZ2h0TjBlbldmdTRqeG9ZUVZJb292S3NoSlhTdXYxdFlRWVdZUklXTHhYLUNTcE9VaXltS25SZFZrNnBxcGdwREh5YWdKWV9hazB5TjB4MUFDeTJBZ1RxMkk5MlJkeGk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T02:45:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NBC Sports Bay Area",
+            "title": "Source: Aiyuk, 49ers agree to reported four-year, $120M contract - NBC Sports Bay Area",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNy0wTnZrZ0xpQzgwOXpReTZfMTdlU1N2QUtndHVGaEk4QWl3bkREOGJwUDZpaUk3cTk3bG5ZWW1UVE1vcHNpUXM4NVlmNGNta1IxSnF0V0VleUZsSXNwV3lBblpTS0ExSUd3RXZjUDNyZHpFR25ScUU3VlhsQ0c1RkYyRTNzYUdhcVRVZEY2Z2N6OVRZSkdmY3lhb1NGWGVVNVBvSDBHdnF1NHAz0gG0AUFVX3lxTE15QldIeXYxaVl0TGZFczJpMzBjdTFFZ2VQQTBEQlAyei1VZW1uZmhsVHRYNm05dU05dkZoOUVtRnU2Q21EZ0szcjAwWmRTOXFSUmxfSmlJNkxlSGFvd0Vjb0pxTUV6UkpIX2dKbzlBTW9ZNE1GVmxfdkxHV2tydHJFclZvekJ6VDJSaklydFkweVBHRzFWejRjS2ktS3JOd3dfbjZhZGJxWFlnUWVpN3hyNTZJNg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T02:12:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "E! NEWS",
+            "title": "Leah Remini and Husband Angelo Pagán Break Up After 21 Years of Marriage - E! Online - E! NEWS",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTRiOEpkYkNUbGNIaFFmS0NRQ1kxS0xoelZEQzNSazREbXZDQ0s0SWMzXzllZy1nX3BGeWxvTjBSREZIRjlXa2hvN0tmZGw3OTI1bmJ0THUyT2o5ZFRKam11WkV0VnBBdzdqZ0xES3lxeWNLd1lra0xFOUhhUkxyb1hkUzU2U09Mc3Ryc0YzNENHV3Y0NXFfUm5oNWxidWNNZERtWEo1ay05N2R0UkE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T02:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Independent",
+            "title": "Trump admits he had no idea he was doing town hall with Tulsi Gabbard - while on stage with her - The Independent",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXExTUVodUlBOWJxRWZYa1F5dEVyeTU1c2pmT1ZuUUNRdXBMVlhyVTRlNWZLVGN2c3g2WVNvRkRzZWpCWVVDRUZoNm9nOEZYY0RnLURsQVVPYVVNTkl5ME1wSXRjU1F1dTcyWVZjSWt0OENiM05lU1p4Y1ZSMFg4d2p5OTg3enlxajBHZzRSV0wyM2Z3WVBFUEVOaFdFdi1nUmRLYmxzTzlPRWU5dDZyWjJ4M3AwM3hOc2lOTVM0QQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T02:01:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "HuffPost",
+            "title": "Trump Claims He's A Victim Of ‘Very Bad People’ After Dustup At Arlington Cemetery - HuffPost",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGVUUUtpdmhiN1hCekdWcmJrQkFjN2c5bFVqTEd4ZlpuOEk5eWlSX3dKX1hUWUx3NU1waFdEd2N5bWh5a3N1c3NDdERQeDBuQ0lDV1NneER5al8tMFBDTUlRdmRmXzBXUDZmT2xBS19nNFh2TVlMU2JLU3piLTVFa294a0Vmc0RpVmE4N2gwbThKNWwwUUtvOEdDeFc2VU9XTlRvcElHU0PSAa4BQVVfeXFMUEZFWGdlZFRYQXFFQmxvejNJX1F3TVVsTmFjRUhIR1RzZW5HMmgwbWJVMFN3TFVhTmZLemJXMVRiR0FmZ3RyMjVvS29rNy13ZlBuR3V5OUxJLXNuNy03TEV1amh4WkZwX245YXdhbVNmWDEwRk5sSnhza3hpMGhvSVRRZ0xKOThpSFVtVnN3WFR4cWRfVjlTVzRmcXo4NmUxMU9IVmVSRkdJSUJNUndB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-30T01:41:20Z",
+            "content": null
+        }
+    ]
+}
