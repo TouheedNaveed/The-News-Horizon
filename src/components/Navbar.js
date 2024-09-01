@@ -1,11 +1,10 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './Navbar.css'
 import { Link } from 'react-router-dom';
-export class Navbar extends Component {
-    render() {
+     const Navbar = ()=> {
         return (
             <div>
-                <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
+                <nav className="navbar fixed-top navbar-expand-lg bg-dark navbar-dark">
                     <div className="container-fluid">
                         <img style={{ height: "50px", width: '50px', marginRight: "10px", cursor: 'pointer' }} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RKDWOFbkjawcN_8yfUcBEV30lg4MHYSM1g&s" alt="" />
                         <Link className="navbar-brand" to="/">The News Horizon</Link>
@@ -44,7 +43,6 @@ export class Navbar extends Component {
 
             </div>
         )
-    }
 }
 
 export default Navbar

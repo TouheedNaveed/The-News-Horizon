@@ -1,16 +1,16 @@
-import React, { Component } from 'react';
+import React, { useEffect } from 'react';
 
-export class ContactUs extends Component {
-  componentDidMount() {
-    this.props.setProgress(10);
+const ContactUs =(props)=> {
+  useEffect(() => {
+    props.setProgress(10);
     setTimeout(() => {
-      this.props.setProgress(100);
+        props.setProgress(100);
     }, 200);
-  }
-  render() {
+    // eslint-disable-next-line
+}, []);
     return (
       <div className="container my-5">
-        <div className="p-4 bg-dark text-light rounded shadow">
+        <div className="p-4 bg-dark text-light rounded shadow"style={{ marginTop: '100px' }}>
           <h4 className="text-center mb-4">Contact Us</h4>
           <p className="text-center lead mb-4">
             We'd love to hear from you! Whether you have a question about our articles, feedback on the site, or just want to say hello, feel free to reach out.
@@ -44,7 +44,6 @@ export class ContactUs extends Component {
         </div>
       </div>
     );
-  }
 }
 
 export default ContactUs;
