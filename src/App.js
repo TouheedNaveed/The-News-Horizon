@@ -10,7 +10,7 @@ import ScrollBtn from './components/ScrollBtn';
 import LoadingBar from 'react-top-loading-bar'
 
 export default class App extends Component {
-  apikey = "5cc1612c09724249a36de63ce869d1fa";
+  apikey = process.env.REACT_NEWS_APP_API;
   pageSize=6;
 
   state={
