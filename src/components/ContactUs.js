@@ -1,6 +1,12 @@
 import React, { Component } from 'react';
 
 export class ContactUs extends Component {
+  componentDidMount() {
+    this.props.setProgress(10);
+    setTimeout(() => {
+      this.props.setProgress(100);
+    }, 200);
+  }
   render() {
     return (
       <div className="container my-5">

@@ -2,6 +2,12 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
 export class Aboutus extends Component {
+    componentDidMount() {
+        this.props.setProgress(10);
+        setTimeout(() => {
+            this.props.setProgress(100);
+        }, 200);
+    }
     render() {
         return (
             <div className='container my-5'>

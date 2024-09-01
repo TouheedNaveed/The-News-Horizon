@@ -39,18 +39,22 @@ export class News extends Component {
     }
 
     updateNews = async () => {
-        const { pageSize, country, category, apikey } = this.props;
+        const { pageSize, country, category, apikey} = this.props;
         const { page } = this.state;
         this.setState({ loading: true });
         try {
+            this.props.setProgress(10);
             let url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=${apikey}&page=${page}&pageSize=${pageSize}`;
             let data = await fetch(url);
+            this.props.setProgress(40);
             let parsedData = await data.json();
+            this.props.setProgress(70);
             this.setState({
                 articles: parsedData.articles,
                 totalResults: parsedData.totalResults,
                 loading: false
             });
+            this.props.setProgress(100);
         } catch (error) {
             console.error("Failed to fetch news articles:", error);
             this.setState({ articles: [], loading: false });
