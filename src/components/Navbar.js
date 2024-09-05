@@ -1,5 +1,4 @@
 import React from 'react'
-import './Navbar.css'
 import { Link } from 'react-router-dom';
      const Navbar = ()=> {
         return (
@@ -23,7 +22,7 @@ import { Link } from 'react-router-dom';
                                     <Link className="nav-link active dropdown-toggle" to="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         News Categories
                                     </Link>
-                                    <ul class="dropdown-menu">
+                                    <ul className="dropdown-menu">
                                         <li><Link className="dropdown-item" to="/business">Business</Link></li>
                                         <li><Link className="dropdown-item" to="/entertainment">Entertainment</Link></li>
                                         <li><Link className="dropdown-item" to="/general">General</Link></li>

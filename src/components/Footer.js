@@ -12,7 +12,7 @@ export class Footer extends Component {
   render() {
     let date = new Date();
     return (
-      <footer className="bg-dark text-light py-4">
+      <footer className="bg-dark text-light py-4 ">
         <div className="container">
           <div className="row">
             <div className="col-md-6 mb-3 mb-md-0">
